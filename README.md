@@ -35,7 +35,6 @@ Screenshots
 ![ScreenShot](Screenshots/Android 2.jpg)
 
 
-
 MIT License
 ------------
 
