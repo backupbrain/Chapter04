@@ -13,7 +13,7 @@ The Book
 ------------
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
 
-To see code from other chapters, see the [table of contents] (/OReillyBleAndroidArduino/Book)
+To see code from other chapters, see the [table of contents] (https://github.com/OReillyBleAndroidArduino/Book)
 
 ![BookCover](</OReillyBleAndroidArduino/Book/Bluetooth Low Energy with Android and Arduino Cover.png>)
 
