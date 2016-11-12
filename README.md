@@ -9,7 +9,15 @@ This chapter teaches:
 * Arduino: Broadcast over Bluetooth
 * Android: Scan for Bluetooth Peripherals
 
+The Book
+------------
 If you find these examples helpful and you haven't purchased the book, please consider doing so.
+
+![BookCover](</OReillyBleAndroidArduino/Book/Bluetooth Low Energy with Android and Arduino Cover.png>)
+
+
+Fair Use
+--------
 
 The book itself is copyrighted material, published under an MIT License. The license allows you to modify and reuse, and distribute this code for private or commercial use.
 
